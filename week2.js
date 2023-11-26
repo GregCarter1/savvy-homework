@@ -4,7 +4,7 @@ let numberOfToppings = 10;
 console.log(typeof pizzaPlace);
 console.log(typeof numberOfToppings);
 
-`Hello, here at ${pizzaPlace} we have up to ${numberOfToppings}`;
+console.log(`Hello, here at ${pizzaPlace} we have up to ${numberOfToppings} toppings to choose from.`);
 
 if (numberOfToppings < 10) {
   console.log("Quality over quantity");
