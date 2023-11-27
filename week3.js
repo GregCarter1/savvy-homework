@@ -1,3 +1,5 @@
+const { clear } = require("console");
+
 // Create an array of pizzaToppings with at least four different toppings
 const pizzaToppings = ["ham", "olives", "pineApple", "onion"];
 for (let toppings of pizzaToppings) {
@@ -21,10 +23,10 @@ const prop = {
   toppings: ["ham", "olives", "pineApple", "onion"]
 };
 for (let ing in prop) {
-  let output = prop;
+  let output = ing;
 }
 
-const getPizzaOrder = ing => "one large thick crust pizza with";
+const getPizzaOrder = () => "one large thick crust pizza with";
 console.log(getPizzaOrder + pizzaToppings);
 
 // Create a preparePizza function that
@@ -42,18 +44,15 @@ console.log(preparePizza + combined);
 // has a parameter of a pizza Object
 // logs a message that the pizza is ready and repeats the order, i.e. "Order up! Here's your large thick crust pizza with x, y, z, ... Enjoy!"
 // outputs the same pizza Object that was passed in
-for (let finished of pizza) {
-  console.log(finished);
-}
+// for (let finished of pizza) {
+//   console.log(finished);
+// }
 const servePizza = pizza => "Order up! Here is your:";
 console.log(servePizza + combined + "Enjoy!");
 
 // Call each function and (starting with preparePizza) use the returned value from the previous function as its input
 console.log(preparePizza + servePizza + combined);
 
-console.log(getPizzaOrder);
-console.log(preparePizza);
-console.log(servePizza + combined);
 
 // Add, commit, and push your JS file to your GitHub repo.
 // Send your TA a link to your GitHub Homework repo when finished.
