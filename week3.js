@@ -32,9 +32,6 @@ console.log(getPizzaOrder + pizzaToppings);
 // prints something like "...Cooking pizza..."
 // outputs a pizza Object with appropriate key-value pairs for size, crust, and toppings
 const pizza = ["large", "thick crust", "toppings:"];
-// for (let cooking of pizza) {
-//   console.log(cooking);
-// }
 
 const combined = pizza + pizzaToppings;
 
@@ -49,10 +46,10 @@ for (let finished of pizza) {
   console.log(finished);
 }
 const servePizza = pizza => "Order up! Here is your:";
-alert(servePizza + combined + "Enjoy!");
+console.log(servePizza + combined + "Enjoy!");
 
 // Call each function and (starting with preparePizza) use the returned value from the previous function as its input
-console.log(preparePizza + servPizza + combined);
+console.log(preparePizza + servePizza + combined);
 
 console.log(getPizzaOrder);
 console.log(preparePizza);
