@@ -1,4 +1,4 @@
-const { clear } = require("console");
+// const { clear } = require("console");
 
 // Create an array of pizzaToppings with at least four different toppings
 const pizzaToppings = ["ham", "olives", "pineApple", "onion"];
