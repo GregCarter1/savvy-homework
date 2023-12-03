@@ -1,0 +1,62 @@
+* {
+  /* border: 2px solid black; */
+  margin: 15px;
+  padding: 5px 5px 5px 5px;
+}
+body {
+background-image: url("/week4/beach.jpg");
+background-size: cover;
+background-attachment: fixed;
+}
+div h1 {
+  font-style: oblique;
+}
+h1 {
+  text-decoration: underline;
+}
+ul {
+  font-weight: 600;
+  padding: .5em;
+  display: center;
+  border-style: dotted;
+}
+p {
+  font-size: large;
+  font-weight:600;
+}
+.about {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: x-large;
+  /* width: 20em; */
+  /* border: 1px solid #333; */
+  /* box-shadow: 10px 10px 7 px #444; */
+  padding: 8px 12px;
+  text-align: center;
+}
+#bring {
+  text-align: center;
+}
+#list {
+  /* border: 2px dashed black; */
+  text-align: center;
+  font-weight: 600;
+  padding: .5em;
+  display: center;
+  border-style: dotted;
+  list-style-position: inside;
+}
+
+footer {
+  border-style:inset;
+  background-color: rgb(236, 226, 210);
+  font-weight: bold;
+  text-align-last: auto;
+  border:  1px solid #333;
+}
+img {
+  height: 300px;
+  width: 300px;
+  border: 2px solid black
+}
+
