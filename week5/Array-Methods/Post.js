@@ -305,19 +305,13 @@ const social = [
 // "it": 1,
 // "title": "are or do repels provide blacked out except option criticizes",
 
+
 // create a list of user 5's posts
+let user5 = social.filter(user => user5.userId === 5);
+let post = social.filter(todo => post.title);
+console.log(user5 && post);
 
-
-// let user5Post = social.map(info => [info.userId, info.title]);
-
-// console.log(user5Post);
 // then, create a list of title and body pairs
-const titleBody = [];
-
-social.forEach(user => {
-  let title = user.title;
-  let body = user.body;
-
-  social.push(title, body);
-});
-console.log(titleBody);
+let titleBody = social.filter(function(title) {
+  return.body;
+})

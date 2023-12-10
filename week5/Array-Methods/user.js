@@ -229,7 +229,7 @@ const data = [
       "bs": "target end-to-end models"
     }
   }
-]
+];
 
 
 // "phone": "024-648-3804",
@@ -238,20 +238,37 @@ const data = [
 //   "name": "Hoeger LLC",
 //   "catchPhrase": "Centralized empowering task-force",
 //   "bs": "target end-to-end models"
-}
-}
+
+
 // create and print a list of phone numbers
-const phone = data.map(user => user.phone);
-  console.log(phone);
+const phone = data.forEach(user => user.phone);
+  console.log('user phone numbers are:' phone);
+  // undefined
+
+data.forEach((phone) => console.log(phone));
+// undefined
+
+const phone = data.map(curr.phone);
+console.log(phone);
+// curr is not defined
+
+
 
   // create and print a list of website and email pairs (pair them in a string, array, or object)
-const webEmailPair = data.map(user => ${user.website} ${user.email});
-console.log(webEmailPair);
+const webEmailPair = data.map(user => ${website} ${email});
+console.log('information provided for: webEmailPair');
 
 // data.map(webEmailPair(website.data, email.data {
 //   console.log(webEmailPair)}));
 
-const webEmailPair = data.map(user => ${user.website} ${user.email});
-console.log(webEmailPair);
+// const webEmailPair = data.map(user => ${user.website} ${user.email});
+// console.log(webEmailPair);
 
+const webEmail = data.forEach(user => {
+  let email = user.email;
+  let web = user.website;
+
+  webEmail.push([email, web]);
+});
+console.log('information provided for:', [webEmail]);
 
