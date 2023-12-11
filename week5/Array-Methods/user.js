@@ -241,34 +241,23 @@ const data = [
 
 
 // create and print a list of phone numbers
-const phone = data.forEach(user => user.phone);
-  console.log('user phone numbers are:' phone);
-  // undefined
-
-data.forEach((phone) => console.log(phone));
-// undefined
-
-const phone = data.map(curr.phone);
+let phone = [];
+data.forEach((curr) => phone.push(curr.phone));
 console.log(phone);
-// curr is not defined
-
 
 
   // create and print a list of website and email pairs (pair them in a string, array, or object)
-const webEmailPair = data.map(user => ${website} ${email});
-console.log('information provided for: webEmailPair');
+let pairs = [];
+data.forEach((now) => pairs.push('website and email pairs are:' $[now.email}, ${now.website}]));
+console.log(pairs);
 
-// data.map(webEmailPair(website.data, email.data {
-//   console.log(webEmailPair)}));
+// or?
 
-// const webEmailPair = data.map(user => ${user.website} ${user.email});
-// console.log(webEmailPair);
+data.forEach(now => {
+  let website = now.website;
+  let email = now.email;
 
-const webEmail = data.forEach(user => {
-  let email = user.email;
-  let web = user.website;
-
-  webEmail.push([email, web]);
+  pairs.push([website, email]);
 });
-console.log('information provided for:', [webEmail]);
+console.log(pairs);
 

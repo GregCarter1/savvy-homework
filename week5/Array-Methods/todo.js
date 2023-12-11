@@ -309,18 +309,17 @@ const task = [
 // "completed": false
 // },
 // create a list of user 3's to-dos
-const user3 = task.map(task => userId === 3);
-let due = task.map(task => completed);
-console.log(due);
-
-let pairs = task.map(userId => {
-  if (userId === 3) {
-    return userId && completed;
-  }
-});
-
-while (userId === 3) {
-  task.userId;
-};
+const user3 = task.map(curr => [curr.userId === 3, curr.completed]);
+console.log(user3);
 
 // then find the number of user 3's incomplete tasks
+const comp = task.map(user => [user.userId === 3, user.completed == false]);
+console.log(comp);
+
+// or?
+
+const comTa = task.map(user => {
+  let user3 = user.userId === 3;
+  let comp = user.completed === false;
+  return [user3, comp];
+});
