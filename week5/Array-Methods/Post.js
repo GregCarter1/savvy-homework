@@ -307,11 +307,9 @@ const social = [
 
 
 // create a list of user 5's posts
-let user5 = social.filter(user => user5.userId === 5);
-let post = social.filter(todo => post.title);
-console.log(user5 && post);
+const posts = social.filter(user => userId === 5);
+console.log(posts);
 
 // then, create a list of title and body pairs
-let titleBody = social.filter(function(title) {
-  return.body;
-})
+const pairs = social.filter(bodypair => bodypair.title && bodypair.body);
+console.log(pairs);
