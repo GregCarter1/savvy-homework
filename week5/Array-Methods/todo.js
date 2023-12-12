@@ -309,11 +309,32 @@ const task = [
 // "completed": false
 // },
 // create a list of user 3's to-dos
-const user3 = task.map(curr => [curr.userId === 3, curr.completed]);
+
+// let user = [];
+
+
+// task.forEach(now => {
+//   let user3 = now.userId;
+//   let compl = now.completed;
+
+//   user.push([user3, compl]);
+// });
+// console.log(user);
+
+let user3 = task.map(userId => {
+  if (userId === 3) {
+    return user3;
+  }
+});
 console.log(user3);
 
 // then find the number of user 3's incomplete tasks
-const comp = task.map(user => [user.userId === 3, user.completed == false]);
+
+
+const comp = task.map(user => [user.userId === 3, user.completed == false]); {
+  return user;
+}
+
 console.log(comp);
 
 // or?

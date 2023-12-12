@@ -248,10 +248,7 @@ console.log(phone);
 
   // create and print a list of website and email pairs (pair them in a string, array, or object)
 let pairs = [];
-data.forEach((now) => pairs.push('website and email pairs are:' $[now.email}, ${now.website}]));
-console.log(pairs);
 
-// or?
 
 data.forEach(now => {
   let website = now.website;
@@ -260,4 +257,5 @@ data.forEach(now => {
   pairs.push([website, email]);
 });
 console.log(pairs);
+
 

@@ -307,9 +307,18 @@ const social = [
 
 
 // create a list of user 5's posts
-const posts = social.filter(user => userId === 5);
-console.log(posts);
+// const posts = social.filter(user => userId === 5);
+// console.log(posts = 1);
 
+// const user5 = [userId];
+
+// const filterUser5 = Oject.keys(social).reduce((obj, key) => {
+//   if (user5.includes(social([key])) {
+//     obj[key = social[key];
+//     return obj;
+//   })
+// })
+// console.log(filteruser5);
 // then, create a list of title and body pairs
 const pairs = social.filter(bodypair => bodypair.title && bodypair.body);
 console.log(pairs);
