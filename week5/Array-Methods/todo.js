@@ -310,37 +310,12 @@ const task = [
 // },
 // create a list of user 3's to-dos
 
-// let user = [];
-
-
-// task.forEach(now => {
-//   let user3 = now.userId;
-//   let compl = now.completed;
-
-//   user.push([user3, compl]);
-// });
-// console.log(user);
-
-let user3 = task.map(userId => {
-  if (userId === 3) {
-    return user3;
-  }
+let user3 = task.filter(user => {
+  return user.userId === 3;
 });
 console.log(user3);
 
 // then find the number of user 3's incomplete tasks
+let incom = user3.filter(user => user.completed === false);
+console.log(incom.length);
 
-
-const comp = task.map(user => [user.userId === 3, user.completed == false]); {
-  return user;
-}
-
-console.log(comp);
-
-// or?
-
-const comTa = task.map(user => {
-  let user3 = user.userId === 3;
-  let comp = user.completed === false;
-  return [user3, comp];
-});

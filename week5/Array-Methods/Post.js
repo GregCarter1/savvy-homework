@@ -1,324 +1,371 @@
 const social = [
   {
-    "userId": 1,
-    "it": 1,
-    "title": "are or do repels provide blacked out except option criticizes",
-    "body": "because he also accepts\nundertakes the consequences of refusal and when\nhe criticizes the trouble so that the whole\nof our things are but they are the matter will happen to the architect"
+    userId: 1,
+    id: 1,
+    title:
+      "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    body:
+      "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
   },
   {
-    "userId": 1,
-    "it": 2,
-    "title": "who is being",
-    "body": "it is in the time of life that things should be followed; no pain will blame the blessed ones; nor will they flee from the flattery of pleasure, or any trouble to reject them; we shall not open to them; we shall not be able to do anything but nothing."
+    userId: 1,
+    id: 2,
+    title: "qui est esse",
+    body:
+      "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
   },
   {
-    "userId": 1,
-    "it": 3,
-    "title": "she repels troubles as if she were training, whoever she is"
-    "body": "and just but by what right\nthe lust of every one who chooses to be blinded, or to the\nlust of pains or accusers, who is spared\nhis pains further by his hatred and labor and wants or"
+    userId: 1,
+    id: 3,
+    title: "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+    body:
+      "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
   },
   {
-    "userId": 1,
-    "it": 4,
-    "title": "and he is blinded",
-    "body": "by rejecting any and often to obtain pleasure\nbut it is easy to assume the fault of things\nwhoever does not know the benefits here is bound by the thing and the pain itself by right\nwhosoever wants the pleasure of things"
+    userId: 1,
+    id: 4,
+    title: "eum et est occaecati",
+    body:
+      "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
   },
   {
-    "userId": 1,
-    "it": 5,
-    "title": "they don't know what they hate",
-    "body": "Let him seek forgiveness for repudiation, but there are other things, or let him flee, but he is, but there is pleasure, we can all be pleasures; there is no pain, nor is it held"
+    userId: 1,
+    id: 5,
+    title: "nesciunt quas odio",
+    body:
+      "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
   },
   {
-    "userId": 1,
-    "it": 6,
-    "title": "I will open them to great pain because",
-    "body"
+    userId: 1,
+    id: 6,
+    title: "dolorem eum magni eos aperiam quia",
+    body:
+      "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
   },
   {
-    "userId": 1,
-    "it": 7,
-    "title": "but the great easy",
-    "body": "may it please some with pain that the things of life\nfor the great who are the ones who are whom no one or often\nwill repulse them because\nthey are to follow them but those which"
+    userId: 1,
+    id: 7,
+    title: "magnam facilis autem",
+    body:
+      "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
   },
   {
-    "userId": 1,
-    "it": 8,
-    "title": "pain is pain itself",
-    "body": "I will open to the most worthy the pain that accepts him\nsome of the easy-minded ones who are able to accept\nthe great elders\nself as comfortable pain of the pleasures of manner or life"
+    userId: 1,
+    id: 8,
+    title: "dolorem dolore est ipsam",
+    body:
+      "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
   },
   {
-    "userId": 1,
-    "it": 9,
-    "title": "they do not know the right of all the pain of the times and accusers",
-    "body": "the mind will not know the truth of pain, not because I will come to the fact that it is not for us, or that they provide pleasure, but pleasure"
+    userId: 1,
+    id: 9,
+    title: "nesciunt iure omnis dolorem tempora et accusantium",
+    body:
+      "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
   },
   {
-    "userId": 1,
-    "it": 10,
-    "title": "the choice of trouble because him",
-    "body": "however expedient ways with duties or great pains that are to be rejected"
+    userId: 1,
+    id: 10,
+    title: "optio molestias id quia eum",
+    body:
+      "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
   },
   {
-    "userId": 2,
-    "it": 11,
-    "title": "and indeed because those who praise"
-    "body"
+    userId: 2,
+    id: 11,
+    title: "et ea vero quia laudantium autem",
+    body:
+      "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
   },
   {
-    "userId": 2,
-    "it": 12,
-    "title": "in some times he hates pain",
-    "body"
+    userId: 2,
+    id: 12,
+    title: "in quibusdam tempore odit est dolorem",
+    body:
+      "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio"
   },
   {
-    "userId": 2,
-    "it": 13,
-    "title"
-    "body": "or we may say that flexibility is the pleasure of convenience, whereby the pain and pleasure of the corrupter rejecting the pleasure of those things, and that of choosing the smallest of labors, of tolerating the refusal to assume, are further pursued by the architect himself"
+    userId: 2,
+    id: 13,
+    title: "dolorum ut in voluptas mollitia et saepe quo animi",
+    body:
+      "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam"
   },
   {
-    "userId": 2,
-    "it": 14,
-    "title": "option to choose pleasure",
-    "body": "we flee and accuse him of suffering pains of pleasure\nnot of pain nor of making him\nnot that he who is blessed with pains and discomforts\nbut rather let all pleasure be to him"
+    userId: 2,
+    id: 14,
+    title: "voluptatem eligendi optio",
+    body:
+      "fuga et accusamus dolorum perferendis illo voluptas\nnon doloremque neque facere\nad qui dolorum molestiae beatae\nsed aut voluptas totam sit illum"
   },
   {
-    "userId": 2,
-    "it": 15,
-    "title": "it will happen that times",
-    "body": "he will rebuke those whom he pleases\nhe wills the smallest duties, he prevents the pains of rejection, the trouble of rejecting the pleasures, because the chosen one will flee from these duties of life"
+    userId: 2,
+    id: 15,
+    title: "eveniet quod temporibus",
+    body:
+      "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae"
   },
   {
-    "userId": 2,
-    "it": 16,
-    "title"
-    "body": "for it accepts only where I open it, or it escapes those who are more open to greater pleasures, because any one's pleasure, which is in other things, results in a great softness; we accuse it unless it is called pleasure"
+    userId: 2,
+    id: 16,
+    title:
+      "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio",
+    body:
+      "suscipit nam nisi quo aperiam aut\nasperiores eos fugit maiores voluptatibus quia\nvoluptatem quis ullam qui in alias quia est\nconsequatur magni mollitia accusamus ea nisi voluptate dicta"
   },
   {
-    "userId": 2,
-    "it": 17,
-    "title": "pleasure flees but troubles provide pleasure",
-    "body": "the pleasure and or the birth of them hates them, and the flight of any trouble is not born.
+    userId: 2,
+    id: 17,
+    title: "fugit voluptas sed molestias voluptatem provident",
+    body:
+      "eos voluptas et aut odit natus earum\naspernatur fuga molestiae ullam\ndeserunt ratione qui eos\nqui nihil ratione nemo velit ut aut id quo"
   },
   {
-    "userId": 2,
-    "it": 18,
-    "title": "at pleasure and therefore indeed times of trouble"
-    "body": "it will come to pass that one will obtain the whole of his labors, not pain, and it is to be rejected; there is no pleasure or debt, and great"
+    userId: 2,
+    id: 18,
+    title: "voluptate et itaque vero tempora molestiae",
+    body:
+      "eveniet quo quis\nlaborum totam consequatur non dolor\nut et est repudiandae\nest voluptatem vel debitis et magnam"
   },
   {
-    "userId": 2,
-    "it": 19,
-    "title": "may he be accepted or rejected who
-    "body": "he who with desire provides for a great
+    userId: 2,
+    id: 19,
+    title: "adipisci placeat illum aut reiciendis qui",
+    body:
+      "illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas"
   },
   {
-    "userId": 2,
-    "it": 20
-    "title":
-    "body": "we lead those who follow, we can have anyone like this, and then he takes up the exercise itself, or flees from the exercise of the duties of the truth, or flees from the necessity of the whole.
+    userId: 2,
+    id: 20,
+    title: "doloribus ad provident suscipit at",
+    body:
+      "qui consequuntur ducimus possimus quisquam amet similique\nsuscipit porro ipsam amet\neos veritatis officiis exercitationem vel fugit aut necessitatibus totam\nomnis rerum consequatur expedita quidem cumque explicabo"
   },
   {
-    "userId": 3,
-    "it": 21,
-    "title": "they are more difficult than pleasures of the least kind because they are",
-    "body": "repels some of the pain of the present with which\nbut not the whole less therefore\nwith no effort there are troubles pain will come here to be refused forgiveness\ntimes and holdings are expedient"
+    userId: 3,
+    id: 21,
+    title: "asperiores ea ipsam voluptatibus modi minima quia sint",
+    body:
+      "repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt"
   },
   {
-    "userId": 3,
-    "it": 22,
-    "title": "I will explain why they are in pain because
-    "body": "those who take up the very thing itself or\nbut all do not hate\nthe ease of their discomfort or take up the thing\nthat prevents it from being"
+    userId: 3,
+    id: 22,
+    title: "dolor sint quo a velit explicabo quia nam",
+    body:
+      "eos qui et ipsum ipsam suscipit aut\nsed omnis non odio\nexpedita earum mollitia molestiae aut atque rem suscipit\nnam impedit esse"
   },
   {
-    "userId": 3,
-    "it": 23,
-    "title": "the most important thing in life is nothing ever",
-    "body": "of the truth from which there is no choosing\nwhich is the architect of which neither life\nnot is the times and the pain flees that\nnot even the bliss to follow any but you are bound to see"
+    userId: 3,
+    id: 23,
+    title: "maxime id vitae nihil numquam",
+    body:
+      "veritatis unde neque eligendi\nquae quod architecto quo neque vitae\nest illo sit tempora doloremque fugit quod\net et vel beatae sequi ullam sed tenetur perspiciatis"
   },
   {
-    "userId": 3,
-    "it": 24,
-    "title": "but here are labor pains occur",
-    "body": "for and from no\npleasure, because those who obtain pleasure are never any\nto refuse it, leaving the most deserving or the harshest"
+    userId: 3,
+    id: 24,
+    title: "autem hic labore sunt dolores incidunt",
+    body:
+      "enim et ex nulla\nomnis voluptas quia qui\nvoluptatem consequatur numquam aliquam sunt\ntotam recusandae id dignissimos aut sed asperiores deserunt"
   },
   {
-    "userId": 3,
-    "it": 25,
-    "title"
-    "body": "any consequence that\nwhosoever it may be or the consequences\nof the very trouble of choosing and all our error\nof trouble at that time because of the distinction"
+    userId: 3,
+    id: 25,
+    title: "rem alias distinctio quo quis",
+    body:
+      "ullam consequatur ut\nomnis quis sit vel consequuntur\nipsa eligendi ipsum molestiae et omnis error nostrum\nmolestiae illo tempore quia et distinctio"
   },
   {
-    "userId": 3,
-    "it": 26,
-    "title": "there is also what hates who does not",
-    "body": "we accuse nothing of being similar to pains\nnames that result in the flight of pain, blame flees in times of refusal\nperceived as praisers\nnames of trouble or truth"
+    userId: 3,
+    id: 26,
+    title: "est et quae odit qui non",
+    body:
+      "similique esse doloribus nihil accusamus\nomnis dolorem fuga consequuntur reprehenderit fugit recusandae temporibus\nperspiciatis cum ut laudantium\nomnis aut molestiae vel vero"
   },
   {
-    "userId": 3,
-    "it": 27,
-    "title": "as if that and them are bound, or by
-    "body": "but we can be blinded by the pains itself\nindebts who pleases them or hates the easy ones\nconsequences he undertakes with the necessities of things but the inventor of the times succeeds"
+    userId: 3,
+    id: 27,
+    title: "quasi id et eos tenetur aut quo autem",
+    body:
+      "eum sed dolores ipsam sint possimus debitis occaecati\ndebitis qui qui et\nut placeat enim earum aut odit facilis\nconsequatur suscipit necessitatibus rerum sed inventore temporibus consequatur"
   },
   {
-    "userId": 3,
-    "it": 28,
-    "title": "chosen to follow any and no pleasure of the body"
-    "body": "and he does not ask for the whole of refusing to the elders, or the softness of the flattery that he
+    userId: 3,
+    id: 28,
+    title: "delectus ullam et corporis nulla voluptas sequi",
+    body:
+      "non et quaerat ex quae ad maiores\nmaiores recusandae totam aut blanditiis mollitia quas illo\nut voluptatibus voluptatem\nsimilique nostrum eum"
   },
   {
-    "userId": 3,
-    "it": 29,
-    "title":
-    "body": "he hates the great as often but not who\ntimes and nothing\we blame him with pains that pain\he hates the rejection of the great and the like but with the elders"
+    userId: 3,
+    id: 29,
+    title: "iusto eius quod necessitatibus culpa ea",
+    body:
+      "odit magnam ut saepe sed non qui\ntempora atque nihil\naccusamus illum doloribus illo dolor\neligendi repudiandae odit magni similique sed cum maiores"
   },
   {
-    "userId": 3,
-    "it": 30,
-    "title": "from which the great and the like bear
-    "body": "others pain will not be hindered by flattery, so much hate will come to flattery, who will love his times, because they provide for the fact that you can see that"
+    userId: 3,
+    id: 30,
+    title: "a quo magni similique perferendis",
+    body:
+      "alias dolor cumque\nimpedit blanditiis non eveniet odio maxime\nblanditiis amet eius quis tempora quia autem rem\na provident perspiciatis quia"
   },
   {
-    "userId": 4,
-    "it": 31,
-    "title": "any such thing as either or both"
-    "body": "because of his debts, but for some people, no one can succeed in life. It prevents him from succeeding, but in fact it is ours to obtain the elders and to obtain the pleasure of repudiating him."
+    userId: 4,
+    id: 31,
+    title: "ullam ut quidem id aut vel consequuntur",
+    body:
+      "debitis eius sed quibusdam non quis consectetur vitae\nimpedit ut qui consequatur sed aut in\nquidem sit nostrum et maiores adipisci atque\nquaerat voluptatem adipisci repudiandae"
   },
   {
-    "userId": 4,
-    "it": 32,
-    "title": "and that pain are something",
-    "body": "they leave those who are harsher than us and here\n is the option of repelling the debt\nfor any reason to make them happy with the distinction of greater\ntheir pleasures and or to obtain those greater pleasures most of all"
+    userId: 4,
+    id: 32,
+    title: "doloremque illum aliquid sunt",
+    body:
+      "deserunt eos nobis asperiores et hic\nest debitis repellat molestiae optio\nnihil ratione ut eos beatae quibusdam distinctio maiores\nearum voluptates et aut adipisci ea maiores voluptas maxime"
   },
   {
-    "userId": 4,
-    "it": 33,
-    "title": "who will explain the pain of trouble",
-    "body": "things that he never hates toil is to be\nand who are in
+    userId: 4,
+    id: 33,
+    title: "qui explicabo molestiae dolorem",
+    body:
+      "rerum ut et numquam laborum odit est sit\nid qui sint in\nquasi tenetur tempore aperiam et quaerat qui in\nrerum officiis sequi cumque quod"
   },
   {
-    "userId": 4,
-    "it": 34,
-    "title": "great as the law of things",
-    "body": "she wants to endure them, so that pleasure is equal to pleasure, pleasure is equal to pleasure, but great times are the smallest, and those who accuse us of assuming the most worthy duties do not know us"
+    userId: 4,
+    id: 34,
+    title: "magnam ut rerum iure",
+    body:
+      "ea velit perferendis earum ut voluptatem voluptate itaque iusto\ntotam pariatur in\nnemo voluptatem voluptatem autem magni tempora minima in\nest distinctio qui assumenda accusamus dignissimos officia nesciunt nobis"
   },
   {
-    "userId": 4,
-    "it": 35,
-    "title": "it is of no consequence that they provide for the troubles of the mind",
-    "body": "unless we can choose the error of choosing life\nplease them with the desire of these easy to criticize the pleasure of the blessed\nwe lead in such a way that the pleasure of choosing\nnot for us because it flees"
+    userId: 4,
+    id: 35,
+    title: "id nihil consequatur molestias animi provident",
+    body:
+      "nisi error delectus possimus ut eligendi vitae\nplaceat eos harum cupiditate facilis reprehenderit voluptatem beatae\nmodi ducimus quo illum voluptas eligendi\net nobis quia fugit"
   },
   {
-    "userId": 4,
-    "it": 36,
-    "title"
-    "body": "he hates flexibility and everyone less than an architect\npleasure and pain most of all or not the same that will come elsewhere\nthe fault of the gentleness or because there is nothing to do and the blinded\nwho is displeased because he finds them so that I can open them"
+    userId: 4,
+    id: 36,
+    title: "fuga nam accusamus voluptas reiciendis itaque",
+    body:
+      "ad mollitia et omnis minus architecto odit\nvoluptas doloremque maxime aut non ipsa qui alias veniam\nblanditiis culpa aut quia nihil cumque facere et occaecati\nqui aspernatur quia eaque ut aperiam inventore"
   },
   {
-    "userId": 4,
-    "it": 37,
-    "title": "provided or as it should be"
-    "body": "debts and they are not duties, but they do not know whether \npleasures should be paid to him or her, but he and she are never or expedient. There is no consequence in all pleasures, or for duties in which one"
+    userId: 4,
+    id: 37,
+    title: "provident vel ut sit ratione est",
+    body:
+      "debitis et eaque non officia sed nesciunt pariatur vel\nvoluptatem iste vero et ea\nnumquam aut expedita ipsum nulla in\nvoluptates omnis consequatur aut enim officiis in quam qui"
   },
   {
-    "userId": 4,
-    "it": 38,
-    "title": "I will open and drive them away from it."
-    "body": "whether it is the mind or whether they do not know that it is pleasure to assume it\nbecause they provide for pleasures because of the necessity of rejecting them\nbecause the chosen person flees pleasure or because\nthe choice of reason allows them to be just and right"
+    userId: 4,
+    id: 38,
+    title: "explicabo et eos deleniti nostrum ab id repellendus",
+    body:
+      "animi esse sit aut sit nesciunt assumenda eum voluptas\nquia voluptatibus provident quia necessitatibus ea\nrerum repudiandae quia voluptatem delectus fugit aut id quia\nratione optio eos iusto veniam iure"
   },
   {
-    "userId": 4,
-    "it": 39,
-    "title": "this is the pain of those who accuse them and that
-    "body": "we lead the things of the body or those who accuse him\nmost harshly from the further we can this all\nnot in the milder flight rougher or\nthe pleasures of the wise or the pain less pleasure fall from"
+    userId: 4,
+    id: 39,
+    title: "eos dolorem iste accusantium est eaque quam",
+    body:
+      "corporis rerum ducimus vel eum accusantium\nmaxime aspernatur a porro possimus iste omnis\nest in deleniti asperiores fuga aut\nvoluptas sapiente vel dolore minus voluptatem incidunt ex"
   },
   {
-    "userId": 4,
-    "it": 40,
-    "title": "in any case",
-    "body": "so that pleasures are something bound to him, no one is bound to follow him because of the ease with which he chooses the very thing, the flexibility of which he is pleasure, whence all pleasure is by right, as the most pleasure, for"
+    userId: 4,
+    id: 40,
+    title: "enim quo cumque",
+    body:
+      "ut voluptatum aliquid illo tenetur nemo sequi quo facilis\nipsum rem optio mollitia quas\nvoluptatem eum voluptas qui\nunde omnis voluptatem iure quasi maxime voluptas nam"
   },
   {
-    "userId": 5,
-    "it": 41,
-    "title": "do not do",
-    "body": "this trouble is ours\nexcept for trouble and pain, every one who is repulsed often seeks\nthis one seeks to be held, we accuse him more harshly because\nindeed we lead, there are debts often"
+    userId: 5,
+    id: 41,
+    title: "non est facere",
+    body:
+      "molestias id nostrum\nexcepturi molestiae dolore omnis repellendus quaerat saepe\nconsectetur iste quaerat tenetur asperiores accusamus ex ut\nnam quidem est ducimus sunt debitis saepe"
   },
   {
-    "userId": 5,
-    "it": 42,
-    "title": "I will explain the pleasure of the present, whether they be of any benefit, and I will accept the error."
-    "body": "I hate to run away from pleasures, but we are led by them, but they fall into pleasure\nnot to reject some, there are no pains to follow\nnot to make repulsed pleasures because\nthe reason of these life as"
+    userId: 5,
+    id: 42,
+    title:
+      "commodi ullam sint et excepturi error explicabo praesentium voluptas",
+    body:
+      "odio fugit voluptatum ducimus earum autem est incidunt voluptatem\nodit reiciendis aliquam sunt sequi nulla dolorem\nnon facere repellendus voluptates quia\nratione harum vitae ut"
   },
   {
-    "userId": 5,
-    "it": 43,
-    "title": "This is the result of choosing ours to be blessed with the present."
-    "body": "in the same way he flees\nil and these pains and pleasures and indeed those\nexercises which we can be comfortable with hate nothing,\nthe great exercise of these and from and distinction must be done"
+    userId: 5,
+    id: 43,
+    title:
+      "eligendi iste nostrum consequuntur adipisci praesentium sit beatae perferendis",
+    body:
+      "similique fugit est\nillum et dolorum harum et voluptate eaque quidem\nexercitationem quos nam commodi possimus cum odio nihil nulla\ndolorum exercitationem magnam ex et a et distinctio debitis"
   },
   {
-    "userId": 5,
-    "it": 44,
-    "title": "the choice of pain is trouble",
-    "body": "times are followed by pain\neither free debts nor laborious wishes because\nself to some who therefore flee the matter or\none and right as much as possible but most of all as a distinction which"
+    userId: 5,
+    id: 44,
+    title: "optio dolor molestias sit",
+    body:
+      "temporibus est consectetur dolore\net libero debitis vel velit laboriosam quia\nipsum quibusdam qui itaque fuga rem aut\nea et iure quam sed maxime ut distinctio quae"
   },
   {
-    "userId": 5,
-    "it": 45,
-    "title": "that we may never be able to receive all his praises by right"
-    "body": "it is born, we can do nothing by rejecting it, or they provide for it, and pain repels it, it is necessary for us to repel it, but pain"
+    userId: 5,
+    id: 45,
+    title: "ut numquam possimus omnis eius suscipit laudantium iure",
+    body:
+      "est natus reiciendis nihil possimus aut provident\nex et dolor\nrepellat pariatur est\nnobis rerum repellendus dolorem autem"
   },
   {
-    "userId": 5,
-    "it": 46,
-    "title": "or in what way neither of us lead"
-    "body": "someone who is born with pleasures, easy pain, or pleasures in something"
+    userId: 5,
+    id: 46,
+    title: "aut quo modi neque nostrum ducimus",
+    body:
+      "voluptatem quisquam iste\nvoluptatibus natus officiis facilis dolorem\nquis quas ipsam\nvel et voluptatum in aliquid"
   },
   {
-    "userId": 5,
-    "it": 47,
-    "title": "whatever thing they leave behind",
-    "body": "pleasure to be assumed so that those who, like greed or hinder me, may not be blinded by those who praise that pleasure"
+    userId: 5,
+    id: 47,
+    title: "quibusdam cumque rem aut deserunt",
+    body:
+      "voluptatem assumenda ut qui ut cupiditate aut impedit veniam\noccaecati nemo illum voluptatem laudantium\nmolestiae beatae rerum ea iure soluta nostrum\neligendi et voluptate"
   },
   {
-    "userId": 5,
-    "it": 48,
-    "title"
-    "body": "the pleasures by which the pleasure of being blinded by the easy right\nor assuming the responsibilities of things and\nnot seen by the gentle\nrepels the praisers so as to criticize"
+    userId: 5,
+    id: 48,
+    title: "ut voluptatem illum ea doloribus itaque eos",
+    body:
+      "voluptates quo voluptatem facilis iure occaecati\nvel assumenda rerum officia et\nillum perspiciatis ab deleniti\nlaudantium repellat ad ut et autem reprehenderit"
   },
   {
-    "userId": 5,
-    "it": 49,
-    "title": "there are no labors or pleasures to be assumed"
-    "body": "the inventor flees from the fact that he is not born to follow the architect, he seeks nothing.
+    userId: 5,
+    id: 49,
+    title: "laborum non sunt aut ut assumenda perspiciatis voluptas",
+    body:
+      "inventore ab sint\nnatus fugit id nulla sequi architecto nihil quaerat\neos tenetur in in eum veritatis non\nquibusdam officiis aspernatur cumque aut commodi aut"
   },
   {
-    "userId": 5,
-    "it": 50,
-    "title": "those who refuse to fall into pleasures are repulsed, those who enjoy every exercise"
-    "body": "the error takes the most to gain the consequence of refusing\nthe pleasures of choosing and it is also the pleasures\nbecause the separation from the main seeks trouble and life\nand prevents the student from following they do not know who will be pursued"
+    userId: 5,
+    id: 50,
+    title:
+      "repellendus qui recusandae incidunt voluptates tenetur qui omnis exercitationem",
+    body:
+      "error suscipit maxime adipisci consequuntur recusandae\nvoluptas eligendi et est et voluptates\nquia distinctio ab amet quaerat molestiae et vitae\nadipisci impedit sequi nesciunt quis consectetur"
   }
-]
+];
 
 // "userId": 1,
 // "it": 1,
 // "title": "are or do repels provide blacked out except option criticizes",
 
-
 // create a list of user 5's posts
-// const posts = social.filter(user => userId === 5);
-// console.log(posts = 1);
 
-// const user5 = [userId];
+const posts = social.filter(user => user.userId === 5);
+console.log(posts);
 
-// const filterUser5 = Oject.keys(social).reduce((obj, key) => {
-//   if (user5.includes(social([key])) {
-//     obj[key = social[key];
-//     return obj;
-//   })
-// })
-// console.log(filteruser5);
 // then, create a list of title and body pairs
-const pairs = social.filter(bodypair => bodypair.title && bodypair.body);
+
+const pairs = posts.map(bodypair => bodypair.title + bodypair.body);
 console.log(pairs);
